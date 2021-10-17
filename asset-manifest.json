@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://redoctor.github.io/csb-i8yx3/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://redoctor.github.io/csb-i8yx3/static/js/main.c1bd34c9.chunk.js",
+    "main.js.map": "https://redoctor.github.io/csb-i8yx3/static/js/main.c1bd34c9.chunk.js.map",
+    "runtime-main.js": "https://redoctor.github.io/csb-i8yx3/static/js/runtime-main.9f4575cc.js",
+    "runtime-main.js.map": "https://redoctor.github.io/csb-i8yx3/static/js/runtime-main.9f4575cc.js.map",
+    "static/js/2.a4ba2aed.chunk.js": "https://redoctor.github.io/csb-i8yx3/static/js/2.a4ba2aed.chunk.js",
+    "static/js/2.a4ba2aed.chunk.js.map": "https://redoctor.github.io/csb-i8yx3/static/js/2.a4ba2aed.chunk.js.map",
+    "index.html": "https://redoctor.github.io/csb-i8yx3/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://redoctor.github.io/csb-i8yx3/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.a4ba2aed.chunk.js.LICENSE.txt": "https://redoctor.github.io/csb-i8yx3/static/js/2.a4ba2aed.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9f4575cc.js",
+    "static/js/2.a4ba2aed.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.c1bd34c9.chunk.js"
+  ]
+}
